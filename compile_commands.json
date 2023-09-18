@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/lib64/ccache/gcc",
+      "-c",
+      "-I",
+      "raylib/src",
+      "raylib/src/libraylib.a",
+      "-o",
+      "test",
+      "bismillah.c"
+    ],
+    "directory": "/home/nass/Desktop/prgm/c",
+    "file": "/home/nass/Desktop/prgm/c/bismillah.c",
+    "output": "/home/nass/Desktop/prgm/c/test"
+  }
+]
